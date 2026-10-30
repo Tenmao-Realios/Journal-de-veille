@@ -11,3 +11,10 @@
 **Pourquoi c'est utile pour un développeur web** : Pour assurer l'intégrité et la confidentialité des informations utilisées sur les pages que l'on crée
 
 **Ce que je vais faire ou vérifier** : Faire un tour de vérification de mes mots de passe sur différents sites et services pour renforcer les plus faibles
+
+## JJ/MM/AAAA — Titre court du sujet
+
+- **Source** : [titre de la page](adresse) — site ou auteur (en anglais si possible)
+- **Ce que j'ai appris** : deux ou trois phrases, avec vos mots.
+- **Pourquoi c'est utile pour un développeur web** : une phrase.
+- **Ce que je vais faire ou vérifier** : une action concrète (réglage, habitude, lecture).
