@@ -15,9 +15,9 @@
 
 **Ce que je vais faire ou vérifier** : Faire un tour de vérification de mes mots de passe sur différents sites et services pour renforcer les plus faibles
 
-## JJ/MM/AAAA — Une propriété CSS est-elle utilisable ?
+## JJ/MM/AAAA — Baseline
 
 - **Source** : [Baseline - Glossary](https://developer.mozilla.org/en-US/docs/Glossary/Baseline) — MDN
 - **Ce que j'ai appris** : Baseline résume quelles fonctionalités sont disponibles sur quels navigateurs et plateformes et ne remplace pas les tests de ces fonctions
-- **Pourquoi c'est utile pour un développeur web** : Pour connaitre les propriétés utilisables
-- **Ce que je vais faire ou vérifier** : 
+- **Pourquoi c'est utile pour un développeur web** : Permet de savoir ce qu'il vaut mieux utiliser
+- **Ce que je vais faire ou vérifier** : Vérifier si des fonctionalités que je souhaite utiliser sont limitées ou dépréciées
