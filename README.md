@@ -21,3 +21,10 @@
 - **Ce que j'ai appris** : Baseline résume quelles fonctionalités sont disponibles sur quels navigateurs et plateformes et ne remplace pas les tests de ces fonctions
 - **Pourquoi c'est utile pour un développeur web** : Permet de savoir ce qu'il vaut mieux utiliser
 - **Ce que je vais faire ou vérifier** : Vérifier si des fonctionalités que je souhaite utiliser sont limitées ou dépréciées
+
+## 20/11/2026 — Titre court du sujet
+
+- **Source** : [Ecma TC39](https://tc39.es/) —  Ecma International
+- **Ce que j'ai appris** : TC39 est un groupe de développeurs et implémenteurs JavaScript travaillant en collaboration avec la communauté à la maintenance et l'évolution de JS.
+- **Pourquoi c'est utile pour un développeur web** : Il est nécessaire de suivre l'évolution de JS qui est extrêmement important au développement web et de rester informer de ses nouvelles failles et fonctionalités.
+- **Ce que je vais faire ou vérifier** : Je vais me renseigner sur d'autres groupes pouvant avoir cette même fonction vis-à-vis de JS et/ou d'autres langages.
