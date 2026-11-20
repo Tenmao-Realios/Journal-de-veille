@@ -22,7 +22,7 @@
 - **Pourquoi c'est utile pour un développeur web** : Permet de savoir ce qu'il vaut mieux utiliser
 - **Ce que je vais faire ou vérifier** : Vérifier si des fonctionalités que je souhaite utiliser sont limitées ou dépréciées
 
-## 20/11/2026 — Titre court du sujet
+## 20/11/2026 — Les nouveautés de JavaScript
 
 - **Source** : [Ecma TC39](https://tc39.es/) —  Ecma International
 - **Ce que j'ai appris** : TC39 est un groupe de développeurs et implémenteurs JavaScript travaillant en collaboration avec la communauté à la maintenance et l'évolution de JS.
